@@ -3,10 +3,6 @@
 Grundlagen der Informatik 2
 Hackathon 10 - Gruppe2
 
-24.01.2022
-Eslem Kibar,6040452
-Aynur Yalcin,6040468
-Alan Akan,6053828
 
 """
 import numpy as np
